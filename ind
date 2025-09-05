@@ -1,6 +1,112 @@
 #EXTM3U billed-msg="Tukang wifi On August 2025.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
+============================================================================================================================================================
+// Collected by subnet menampilkan playlist >>> Live Event | Liga Tarkam
+============================================================================================================================================================
+
+========== BRI LIGA 1 ===========
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | LIGA TARKAM
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live2&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live1&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 1A SEMEN PADANG VS PSM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
+https://spacetv.my.id/index.mpd?id=19385&type=dash
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 2B DEWA UNITED VS PERSIK 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 6
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri6&type=m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 7
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri7&type=m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 8
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live8&type=m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live9&type=m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 10
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live10&type=m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="LIVE | LIGA TARKAM", LIGA BRI LIVE 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=dash
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="LIVE | LIGA TARKAM", LIGA BRI LIVE 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=dash
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="LIVE | LIGA TARKAM", LIGA BRI LIVE 13
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="LIVE | LIGA TARKAM", LIGA BRI LIVE 14
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="LIVE | LIGA TARKAM", LIGA BRI LIVE 15
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19384&type=drm
+https://spacetv.my.id/index.mpd?id=19384&type=dash
+
 
 ============================================================================================================================================================
 // Collected by subnet menampilkan playlist >>> Live Event
@@ -78,6 +184,7 @@ https://my.bhianesse.xyz/A1/kontol1/350997
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="LIVE | VIP Event", Bulu Tangkis 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18249&type=drm
@@ -101,6 +208,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18252&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
+
+
 
 
 
