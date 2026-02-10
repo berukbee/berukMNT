@@ -1,0 +1,387 @@
+﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+
+//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
+
+//========================================================================
+🔸🔸 Collected by subnet menampilkan playlist >>> 
+//========================================================================
+
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/berukbee/berukMNT/refs/heads/codespace-glorious-zebra-4j6xpggwv95rfqg4g/logo.png"
+
+
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Zoomoo HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165931&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Vision Prime HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165930&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Tvn Movies HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165929&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TVN HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165928&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TRT World HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165927&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  SPOTV 2 HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165926&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  SPOTV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165925&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Sportstars 2 HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165924&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Soccer Channel-HD HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165923&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Set One HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165922&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Rusia Today HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165921&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Rock Entertainment HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165920&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Rock Action HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165919&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  RCTI HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165918&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  RCTI HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165917&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Outdoor HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165916&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Nick Jr HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165915&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  NET TV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165914&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MTV Live HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165913&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MTV 90s HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165912&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Moonbug HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165911&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC TV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165910&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC SindoNews HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165909&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Love Nature HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165908&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Kids TV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165907&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  iNews HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165906&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Indonesiana TV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165905&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Indonesia Movie Channel HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165904&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Hits HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165903&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  GTV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165902&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Global Trekker HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165901&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Galaxy Premium HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165900&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Galaxy HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165899&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Fight Sports HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165898&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  DW TV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165897&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  DreamWorks HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165896&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Xtra HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165895&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Max HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165894&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Kids HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165893&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Action HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165892&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165891&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 5 HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165890&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 4 HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165889&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 3  HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165888&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 2  HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165887&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 1  HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165886&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  BBC Earth HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165885&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Baby TV HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165884&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  AXN HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165883&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Animax HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165882&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Zoomoo
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165881&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Zee Bioskop
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165880&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Vision Prime
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165879&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TVRI Nasional PemersatuBangsa
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165878&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TVOne
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165877&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Tvn Movies
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165876&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TVN
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165875&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TV 9 Nusantara
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165874&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TRT World
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165873&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  TransTV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165872&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Trans7
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165871&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Thriil
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165870&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Tawaf TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165869&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  SPOTV 2
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165868&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  SPOTV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165867&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Sportstars 2
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165866&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Sportstars 1
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165865&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Soccer Channel-HD
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165864&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Shanghai Dragon TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165863&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Set One
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165862&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  SEA Today
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165861&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Rusia Today
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165860&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  RTV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165859&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Rock Entertainment
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165858&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Rock Action
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165857&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Reformed 21
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165856&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  RCTI
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165855&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  RCTI
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165854&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Outdoor
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165853&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Nick Jr
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165852&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  NHK World Premium
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165851&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  NHK World Japan
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165850&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  NET TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165849&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MyCinema Asia
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165848&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MyCinema
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165847&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  My Kids
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165846&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  My Cinema Family
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165845&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Music TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165844&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MTV Live
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165843&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MTV 90s
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165842&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Moonbug
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165841&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165840&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC SindoNews
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165839&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC Muslim
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165838&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC Infotainment
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165837&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  MNC Entertainment
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165836&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Metro TV2
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165835&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Love Nature
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165834&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Lifetime
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165833&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Lifestyle & Fashion
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165832&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  life
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165831&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Kompas TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165830&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  KIX
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165829&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Kids TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165828&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Kids Channel
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165827&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  JTV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165826&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Jiangsu TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165825&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  JAK TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165824&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Investor Daily TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165823&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  iNews
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165822&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Indonesiana TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165821&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Indonesia Movie Channel
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165820&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  IDX
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165819&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Hunan TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165818&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  HitsMovies
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165817&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Hits
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165816&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  GTV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165815&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Global Trekker
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165814&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Galaxy Premium
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165813&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Galaxy
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165812&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  France 24
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165811&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  FOX News
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165810&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Food Travel OKTVnow
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165809&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  FMN (Telenovela)
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165808&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Fight Sports
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165807&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  EWTN
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165806&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Euronews
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165805&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  DW TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165804&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  DreamWorks
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165803&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  DAAI TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165802&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Crime Investigation+
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165801&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  CNBC Asia
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165800&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Xtra
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165799&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Max
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165798&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Kids
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165797&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi Action
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165796&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Cinemachi
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165795&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  CGTN DOCUMENTARY
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165794&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  CGTN
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165793&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Celestial Movies
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165792&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Celestial Classic
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165791&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  CBieebies
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165790&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Bloomberg
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165789&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Berita Satu
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165788&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 5
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165787&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 4
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165786&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 3
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165785&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 2
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165784&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  beIN Sports 1
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165783&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  BBC Earth
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165782&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Bandung TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165781&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Bali TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165780&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Baby TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165779&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  AXN
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165778&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Arirang
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165777&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  ANTV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165776&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Animax
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165775&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Anhui TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165774&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  Al Quran Al Kareem TV
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165773&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  AL JAZEERA English
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165772&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID|  ABC Australia
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=1165771&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Ahsan TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192254&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Ahsan TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192198&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| BBS TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192251&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Berita Satu TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192250&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Citra TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192249&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| CNN Indonesia ᴴᴰ ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192248&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Daai TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192247&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Digdaya TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192245&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Elshinta TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192243&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Foodie ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192242&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Insan TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192237&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Kompas TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192232&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| MGS TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192228&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| NET. ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192222&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Padang TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192221&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| RCTV ᴴᴰ ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192217&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Sakti TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192213&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Salam TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192212&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| TEGAR TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192209&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Trans 7 ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192207&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| Trans TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192206&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| TVKU ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192203&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| TVKU TV ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192202&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| tvOne ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192201&extension=ts
+#EXTINF:-1 tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| TVRI Lampung ID
+http://royalibox.com:80/play/live.php?mac=00:1A:79:00:24:24&stream=192200&extension=ts
