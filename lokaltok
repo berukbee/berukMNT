@@ -6,10 +6,6 @@
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/berukbee/berukMNT/refs/heads/codespace-glorious-zebra-4j6xpggwv95rfqg4g/logo.png",CHANNEL | INDONESIA
 
 
-//========================================================================
-🔸🔸 Collected by kopstukang menampilkan playlist >>> NASIONAL TV
-//========================================================================
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -743,7 +739,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 ######################
 ######## News #########
 ######################
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | NEWS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/berukbee/berukMNT/refs/heads/codespace-glorious-zebra-4j6xpggwv95rfqg4g/logo.png",CHANNEL | NEWS
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="CHANNEL | NEWS",CNN INT
@@ -1245,7 +1241,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 
 # --- Timnas Indonesia ---
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",KUALIFIKASI PIALA DUNIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/berukbee/berukMNT/refs/heads/codespace-glorious-zebra-4j6xpggwv95rfqg4g/logo.png"",KUALIFIKASI PIALA DUNIA
 
 
 
@@ -1508,7 +1504,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 --
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | TIMNAS🇮🇩
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/berukbee/berukMNT/refs/heads/codespace-glorious-zebra-4j6xpggwv95rfqg4g/logo.png",LIVE | TIMNAS🇮🇩
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYXFj6ha8tZSy&s=10" group-title="LIVE | TIMNAS🇮🇩", INDONESIA VS TAJIKISTAN
